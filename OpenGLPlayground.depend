@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1525371910 source:/home/lars/OpenGLPlayground/main.cpp
+	<iostream>
+	<GL/glew.h>
+	"Display.h"
+	"Shader.h"
+
+1525369133 /home/lars/OpenGLPlayground/include/Display.h
+	<string>
+	<SDL2/SDL.h>
+
+1525369186 source:/home/lars/OpenGLPlayground/src/Display.cpp
+	<iostream>
+	"Display.h"
+	<GL/glew.h>
+
+1525371653 /home/lars/OpenGLPlayground/include/Shader.h
+	<string>
+	<GL/glew.h>
+
+1525371694 source:/home/lars/OpenGLPlayground/src/Shader.cpp
+	"Shader.h"
+	<iostream>
+	<fstream>
+
